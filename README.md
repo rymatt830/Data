@@ -1,2 +1,2 @@
 # Data
-This repository contains miscellaneous data
+This repository contains miscellaneous data.
